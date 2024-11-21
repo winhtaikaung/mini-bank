@@ -1,9 +1,9 @@
-# Mini Wallet Application
+# Mini Bank Application
 ---
 
-# Mini Wallet API
+# Mini Bank API
 
-This application is a mini wallet API that allows users to manage multiple wallets, perform transactions, and track their balances. It provides a set of endpoints for user authentication, wallet management, and transaction handling.
+This application is a Mini Bank API that allows users to manage multiple wallets, perform transactions, and track their balances. It provides a set of endpoints for user authentication, wallet management, and transaction handling.
 
 ## Functionality
 
@@ -93,4 +93,4 @@ Development Notes are as follows.
 
 ---
 
-This README provides an overview of the Mini Wallet API's functionality, technology stack, transaction handling process, and error management. It serves as a quick reference for developers working with or integrating this API.
+This README provides an overview of the Mini Bank API's functionality, technology stack, transaction handling process, and error management. It serves as a quick reference for developers working with or integrating this API.
