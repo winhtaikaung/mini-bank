@@ -89,7 +89,7 @@ The application uses try-except blocks to catch and handle various exceptions, p
 
 Development Notes are as follows.
 
-- Backend Readme [here](./project/backend/README.md)
+- Backend Setup Notes [here](./project/backend/SETUP.md)
 
 ---
 
