@@ -26,7 +26,7 @@ This application is a Mini Bank API that allows users to manage multiple wallets
 ## Technology Stack
 
 - **Backend Framework**: Tornado (Python)
-- **Database**: PostgreSQL
+- **Database**: SQLite
 - **ORM**: SQLAlchemy
 - **Authentication**: JWT (JSON Web Tokens)
 - **API Testing**: Postman
